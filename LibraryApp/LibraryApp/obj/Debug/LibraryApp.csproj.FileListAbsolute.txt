@@ -1,0 +1,11 @@
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\bin\Debug\LibraryManagment.dll
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\bin\Debug\LibraryManagment.pdb
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\Phase-1\DAY-17\Assignmentssss\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

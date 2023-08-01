@@ -1,0 +1,6 @@
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\bin\Debug\LibraryManagment.dll
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\bin\Debug\LibraryManagment.pdb
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.AssemblyReference.cache
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.CoreCompileInputs.cache
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.dll
+D:\Phase-1\DAY-17\Assignmentssss\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.pdb
